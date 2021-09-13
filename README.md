@@ -1,2 +1,2 @@
-Creating a web page using Bootsrap. \
+Creating a web page using Bootstrap. \
 (For Patika.dev https://www.patika.dev)
